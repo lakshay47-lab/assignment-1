@@ -7,11 +7,12 @@ int main() {
     cout << "Enter a number: ";
     cin >> a;
 
-    a += 5;   // same as a = a + 5
+    a += 5;   
     cout << "After using += 5, value = " << a << endl;
 
-    a -= 3;   // same as a = a - 3
+    a -= 3;   
     cout << "After using -= 3, value = " << a << endl;
 
     return 0;
 }
+
